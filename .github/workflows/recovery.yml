@@ -64,5 +64,5 @@ jobs:
          with:
           tag_name: TWRP_10.0
           name: TWRP-gta7litexx
-          files: | 
+          files: |
             work/out/target/product/gta7lite/recovery.img
