@@ -63,6 +63,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          with:
           tag_name: TWRP_10.0
-          name: TWRP-gta7lite
+          name: TWRP-gta7litexx
           files: | 
             work/out/target/product/gta7lite/recovery.img
